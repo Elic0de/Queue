@@ -1,0 +1,4 @@
+name: Queue
+version: '${project.version}'
+main: com.github.elic0de.queue.Queue
+api-version: 1.19

@@ -1,0 +1,3 @@
+sending_player: '[%1%に転送します](#00fb9a)'
+sending_player_failed: '[接続に失敗しました後ほどお試しください](#00fb9a)'
+position: '[あなたの順番は #%1% です](#00fb9a)'
